@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "registry:build": "npx shadcn build -o ./public/r"
+    "registry:build": "npx shadcn build -o ./public/r && npx tsx scripts/fix-registry-imports.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "mapcn",
-  "homepage": "https://github.com/anmoldeepsingh/mapcn",
+  "homepage": "https://mapcn.dev",
   "items": [
     {
       "name": "map",
